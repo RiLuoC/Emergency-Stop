@@ -1,0 +1,16 @@
+[
+{
+  "modid": "emergencystop",
+  "name": "急停",
+  "description": "取消了飞行和行走时的惯性，实现了急停",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/RiLuoC/Emergency-Stop.git",
+  "updateUrl": "",
+  "authorList": ["日落丶"],
+  "credits": "",
+  "logoFile": "assets/emergencystop/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
